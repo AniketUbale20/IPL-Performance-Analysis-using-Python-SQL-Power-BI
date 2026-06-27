@@ -1,0 +1,5 @@
+Rows : 5000
+Total Runs : 164588
+Average Runs : 32.92
+Highest Score : 106
+Average Strike Rate : 143.65
