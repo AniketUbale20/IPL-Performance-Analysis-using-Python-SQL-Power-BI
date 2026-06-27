@@ -105,5 +105,9 @@ Raw Dataset → Python (Cleaning & Feature Engineering) → SQL Analysis → Pow
 - GitHub: https://github.com/YOUR-USERNAME
 
 ---
+<img width="1021" height="562" alt="Screenshot 2026-06-27 184218" src="https://github.com/user-attachments/assets/d05364c2-58cc-4af2-892a-6170ae22246b" />
+<img width="1021" height="567" alt="Screenshot 2026-06-27 184144" src="https://github.com/user-attachments/assets/f20c159f-6411-4240-bde2-becc57aba16e" />
+<img width="1022" height="576" alt="Screenshot 2026-06-27 184102" src="https://github.com/user-attachments/assets/961b2473-53b0-4e8e-b21b-c53be00faec8" />
+
 
 ⭐ If you found this project useful, consider giving it a star.
