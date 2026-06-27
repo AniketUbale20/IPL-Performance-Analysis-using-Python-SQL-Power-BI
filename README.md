@@ -1,3 +1,13 @@
+<h1 align="center">
+Customer Insights & Recommendation Dashboard
+</h1>
+
+<p align="center">
+Power BI • Python • SQL • Pandas • NumPy
+</p>
+
+
+
 # 🏏 IPL Performance Analysis using Python, SQL & Power BI
 
 An interactive Data Analytics project that analyzes IPL batting performance using Python for data preprocessing, SQL for data analysis, and Power BI for dashboard visualization.
